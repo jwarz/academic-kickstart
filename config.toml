@@ -20,7 +20,7 @@ copyright = "&copy; TUHH Institute of Entrepreneurship, {year}"
 ############################
 
 # Name of Academic theme folder in `themes/`.
-theme = ["hugo-video", academic"]
+theme = ["academic", "hugo-video"]
 # Get last modified date for content from Git?
 enableGitInfo = false
 
