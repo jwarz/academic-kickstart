@@ -70,7 +70,7 @@ Embedded from Dropbox (thumbnail and canvas has to be resized)
 <iframe src="https://www.dropbox.com/s/1x53p65plsu37ad/camtasia.mp4?raw=1" style="width:100%;height:100%;" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
 Embedded from webcast.tuhh.de (does not work so far)
-<iframe src="https://webcast.tuhh.de/Mediasite/Play/2bc6d56db4f749f8b52c20a478e074b31d" style="width:100%;height:100%;" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+<iframe width="320" height=240" frameborder="0" scrolling="auto" marginheight="0" marginwidt="0" src="https://webcast.tuhh.de/Mediasite/Play/2bc6d56db4f749f8b52c20a478e074b31d"></iframe>
 
 Standard way of implementing local videos with hugo
 {{< video src="video/camtasia.mp4" controls="yes" >}}
