@@ -70,7 +70,7 @@ Insert some content below:
 
 
 
-{{< video library="1" src="camtasia.mp4" controls="yes" >}}
+{{< video library="1" src="static/img/camtasia.mp4" controls="yes" >}}
 
 
 {{< youtube 09jf3ow9jfw >}}
