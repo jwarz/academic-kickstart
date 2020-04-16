@@ -25,7 +25,7 @@ This is an embedded video hosted on the TUHH media server:
 
 
 <div style="padding:62.5% 0 3% 0;position:relative;">
-    <iframe src="https://media.tuhh.de/w11/camtasia.mp4" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+<iframe src="https://media.tuhh.de/w11/camtasia.mp4" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 </div>
 
 
