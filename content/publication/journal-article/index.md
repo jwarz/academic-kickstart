@@ -69,12 +69,16 @@ Insert some content below:
 Embedded from Dropbox (thumbnail and canvas has to be resized)
 <iframe src="https://www.dropbox.com/s/1x53p65plsu37ad/camtasia.mp4?raw=1" style="width:100%;height:100%;" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
-Embedded from webcast.tuhh.de
+Embedded from webcast.tuhh.de (does not work so far)
 <iframe src="https://webcast.tuhh.de/Mediasite/Play/2bc6d56db4f749f8b52c20a478e074b31d" style="width:100%;height:100%;" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
 Standard way of implementing local videos with hugo
 {{< video src="video/camtasia.mp4" controls="yes" >}}
 
+Embedded from mediaserver (can niot open the file so far)
+<video class="video-js vjs-default-skin" style="width: 100%; height:auto;" controls preload="auto" poster="//media.tu-harburg.de/video-play-arrow-png-18-transparent.png" data-setup='{"techOrder": ["html5","flash"]}'>
+    <source src="//media.tu-harburg.de/w11/camtasia.mp4" type="video/mp4" />
+</video>
 
 
 {{% alert note %}}
