@@ -1,0 +1,12 @@
+<form class=”contact-form-wrapper” accept-charset=”UTF-8" action=”{{ .Get “action” }}” method=”POST” role=”form”>
+<label for=”name”>Name</label>
+<input type=”text” id=”name” name=”name” required placeholder=”Your Name” aria-labelledby=”name”/>
+<br>
+<label for=”email”>Email Address</label>
+<input type=”email” id=”email” name=”email” required placeholder=”Email” aria-labelledby=”email”/>
+<br>
+<label for=”message”>Message</label>
+<textarea id=”message” name=”message” aria-labelledby=”message”></textarea>
+<br>
+<input type=”submit” value=”Send”/>
+</form>

@@ -21,7 +21,6 @@ copyright = "&copy; TUHH Institute of Entrepreneurship, {year}"
 
 # Name of Academic theme folder in `themes/`.
 theme = "academic"
-
 # Get last modified date for content from Git?
 enableGitInfo = false
 
