@@ -65,9 +65,8 @@ slides: example
 
 Insert some content below:
 
-<div style="padding:62.5% 0 3% 0;position:relative;">
-<iframe src="https://www.dropbox.com/s/1x53p65plsu37ad/camtasia.mp4?dl=0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
-</div>
+<iframe src="https://www.dropbox.com/s/1x53p65plsu37ad/camtasia.mp4?raw=1" allowfullscreen></iframe>
+
 
 {{< youtube 09jf3ow9jfw >}}
 
