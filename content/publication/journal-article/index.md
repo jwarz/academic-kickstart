@@ -66,15 +66,14 @@ slides: example
 Insert some content below:
 
 
-Embedded from Dropbox (thumbnail has to be resized)
-
+Embedded from Dropbox (thumbnail and canvas has to be resized)
 <iframe src="https://www.dropbox.com/s/1x53p65plsu37ad/camtasia.mp4?raw=1" style="width:100%;height:100%;" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
-Standard way of implementing local videos with hugo
-{{< video library="1" src="video/camtasia.mp4" controls="yes" >}}
+Embedded from webcast.tuhh.de
+<iframe src="http://webcast.tuhh.de/Mediasite/Play/2bc6d56db4f749f8b52c20a478e074b31d" style="width:100%;height:100%;" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
-martignoni/hugo-video implemention
-{{< video src="video/camtasia.mp4" >}}
+Standard way of implementing local videos with hugo
+{{< video src="video/camtasia.mp4" controls="yes" >}}
 
 
 
