@@ -66,14 +66,17 @@ slides: example
 Insert some content below:
 
 
+Embedded from Dropbox (thumbnail has to be resized)
+
 <iframe src="https://www.dropbox.com/s/1x53p65plsu37ad/camtasia.mp4?raw=1" style="width:100%;height:100%;" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
-
-
+Standard way of implementing local videos with hugo
 {{< video library="1" src="video/camtasia.mp4" controls="yes" >}}
 
+martignoni/hugo-video implemention
+{{< video src="video/camtasia.mp4" >}}
 
-{{< youtube 09jf3ow9jfw >}}
+
 
 {{% alert note %}}
 Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
