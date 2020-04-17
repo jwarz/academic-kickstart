@@ -73,11 +73,11 @@ Embedded from webcast.tuhh.de (does not work so far)
 <iframe width="320" height=240" frameborder="0" scrolling="auto" marginheight="0" marginwidt="0" src="https://webcast.tuhh.de/Mediasite/Play/2bc6d56db4f749f8b52c20a478e074b31d"></iframe>
 
 Standard way of implementing local videos with hugo
-{{< video src="video/camtasia.mp4" controls="yes" >}}
+{{< video src="video/n51kp9ruper41.mp4" controls="yes" >}}
 
 Embedded from mediaserver (can niot open the file so far)
 <video class="video-js vjs-default-skin" style="width: 100%; height:auto;" controls preload="auto" poster="//media.tu-harburg.de/video-play-arrow-png-18-transparent.png" data-setup='{"techOrder": ["html5","flash"]}'>
-    <source src="//media.tu-harburg.de/w11/camtasia.mp4" type="video/mp4" />
+    <source src="//media.tu-harburg.de/w11/file_example_MP4_480_1_5MG.mp4" type="video/mp4" />
 </video>
 
 
